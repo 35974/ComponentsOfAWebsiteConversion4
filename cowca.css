@@ -1,0 +1,37 @@
+.classnavbarex1{
+    background: red; 
+    width: 100%; 
+    text-align: center;
+    padding: 5px 0;
+    font-size: 50px;
+}
+.classimagoryex2{
+    background: green;
+    width: 100%;
+    text-align: center;
+    padding: 100px 0;
+    font-size: 50px;
+}
+.classsection2ex3{
+    background: blue; 
+    width: 50%; 
+    float: right; 
+    text-align: center;
+    padding: 200px 0;
+}
+.classsection3ex4{
+    background: red; 
+    width: 50%; 
+    text-align: center;
+    padding: 200px 0;
+}
+.classfooterex5{
+    background: orange; 
+    width: 100%; 
+    text-align: center;
+    padding: 100px 0;
+    font-size: 50px;
+}
+.classtextsize{
+    font-size: 50px;
+}
